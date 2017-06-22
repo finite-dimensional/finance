@@ -1,0 +1,8 @@
+public class Finance {
+
+    static double netReturn(double c_0, double c_1) {
+	return c_1 - c_0;
+    }
+
+
+}
